@@ -20,8 +20,9 @@ and open the template in the editor.
 
     </head>
     <body>
-        <header class="w3-container">
-            <h1>Prof. Arnaldo Martins Hidalgo Junior.<
+        <header class="w3-container ">
+            <h1 class="w3-tangerine w3-text-shadow ">Prof. Arnaldo Martins Hidalgo Junior.</h1>
+            <h3 class="w3-tangerine">E-mail: arnaldo.hidalgo@etec.sp.gov.br</h3>
         </header>
         <?php
         // put your code here
